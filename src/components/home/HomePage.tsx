@@ -3,7 +3,7 @@ import HomeHero from './HomeHero'
 import DistAlumniCarousel from './DistAlumniCarousel'
 import HomeInfo from './HomeInfo'
 import HomeEvents from './HomeEvents'
-import HomeQuickLinks from '../../HomeQuickLinks'
+import HomeQuickLinks from './HomeQuickLinks'
 
 
 export default function HomePage(){

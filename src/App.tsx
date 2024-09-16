@@ -2,8 +2,8 @@ import { useState } from 'react'
 import reactLogo from './assets/react.svg'
 import viteLogo from '/vite.svg'
 import './App.css'
-import Navbar from './Navbar.js'
-import Footer from './Footer.js'
+import Navbar from './components/Navbar.js'
+import Footer from './components/Footer.js'
 import HomePage from './components/home/HomePage.js'
 
 function App() {
