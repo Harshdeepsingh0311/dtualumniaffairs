@@ -69,7 +69,7 @@ const DistAlumniCarousel: React.FC = () => {
           <div className="flex overflow-hidden">
             {alumniData.length ? (
               getVisibleAlumni().map((alum, index) => {
-                const imageSrc = alum.image || './public/img/blank-profile-picture.png';
+                const imageSrc = alum.image || './media/blank-profile-picture.png';
                 return (
                   <div
                     key={index}
@@ -81,7 +81,7 @@ const DistAlumniCarousel: React.FC = () => {
                         className="h-[35vh] w-full object-cover"
                         src={imageSrc}
                         alt={alum.name}
-                        onError={(e) => (e.currentTarget.src = './public/img/blank-profile-picture.png')}
+                        onError={(e) => (e.currentTarget.src = './media/blank-profile-picture.png')}
                       />
                       <div className="absolute top-0 left-0 w-full h-full bg-black bg-opacity-75 opacity-0 group-hover:opacity-100 transition-opacity duration-300 flex items-center justify-center">
                         <p className="text-white text-base md:text-lg lg:text-xl p-4">{alum.text}</p>
