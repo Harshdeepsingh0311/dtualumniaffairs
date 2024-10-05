@@ -64,7 +64,7 @@ export default function Navbar() {
         </li>
        
           <li>
-            <a href="./pages/initiatives.html" className="mr-4 hover:underline md:mr-3">Alumni Initiatives</a>
+            <a href="/initiatives" className="mr-4 hover:underline md:mr-3">Alumni Initiatives</a>
           </li>
 
         </ul>
