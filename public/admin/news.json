@@ -1,8 +1,65 @@
 [
     {
         "serial": 1,
-        "title": "Raj Soin Hall Inauguration Ceremony",
-        "date": "Nov 2022",
-        "info": "dfffffffffffffffffffffff"
+        "title": "Visit of Shri. Ravinder Paul Singh (Alumnus of 1978 batch, Electrical Engineering)",
+        "date": "Aug 2023",
+        "info": "An event “Entrepreneurship is a way of life” with Sh. Ravinder Paul Singh (Alumnus of 1978 batch, Electrical Engineering) was held on 22nd August, 2023 for students of Electrical Engineering."
+    },
+    {
+        "serial": 2,
+        "title": "Visit of Shri. Vikram Manuja, (alumnus of 1973, Electrical Engineering)",
+        "date": "Oct 2023",
+        "info": "An interaction program “Entrepreneurship” with Shri. Vikram Manuja, alumnus of 1973, Electrical Engineering was held on 11th October, 2023"
+    },
+    {
+        "serial": 3,
+        "title": "Visit of Shri. R.S. Kalsi (Executive Board Member) & Alumnus of 1981",
+        "date": "Oct 2023",
+        "info": "An Interaction program “Maruti Suzuki 3.0- The Big Indian Automobile Revolution” with Shri. R.S. Kalsi (Executive Board Member) & Alumnus of 1981, was held on 12th October, 2023, for students of all batches."
+    },
+    {
+        "serial": 4,
+        "title": "Visit of DCE-DTU Alumni Association members visited DTU",
+        "date": "Jan 2024",
+        "info": ""
+    },
+    {
+        "serial": 5,
+        "title": "Homecoming 2024",
+        "date": "Feb 2024",
+        "info": "Diamond, Golden & Silver Jubilee Homecoming Meet- 2022 for DCE graduates (Classes of 1963, 1964, 1973, 1974, 1998 & 1999), a program to felicitate them for their achievements and services to humanity at large presenting before them, different activities related to our alumni held at Delhi Technological University on 02th February, 2024."
+    },
+    {
+        "serial": 6,
+        "title": "The Scholarship of Rs. 3 Lacs instituted by our distinguished alumnus Shri. Ankur Bal, Alumnus of 1999 batch, Electrical Engineering Department.",
+        "date": "",
+        "info": "“Wing Commander Adarsh Bal Scholarship” amounting to Rs. 60,000/- annum shall be awarded to one student on Merit cum Means basis, for Circuit Branches only for 1st year student who cannot afford to pay for tuition fees, hostel fees, and books etc. the student with low family income may be considered, and if there is a tie in the income criteria, then the student with high JEE rank may be considered to award the scholarship"
+    },
+    {
+        "serial": 7,
+        "title": "Visit of Shri. Pranav Mehta, Director of Data Science at American Express alumnus of 2011",
+        "date": "Feb 2024",
+        "info": "An interaction event on 'How to Make a career in Data Science' with Shri. Pranav Mehta, Director of Data Science at American Express alumnus of 2011, on 28th February, 2024 at DTU. The event is for the students of all branches."
+    },
+    {
+        "serial": 8,
+        "title": "The Scholarship of Rs. 10 Lacs instituted by our distinguished alumnus Shri. Ankur Bal, Alumnus of 1999 batch, Electrical Engineering Department.",
+        "date": "",
+        "info": "Two scholarships namely, “(i) N.C Kukreja and Santosh Kukreja Scholarship, and (ii) Nand Lal Kukreja Scholarship” each with an amount of Rs. 1,00,000/- per annum shall be awarded each year to two students of 1st year (one scholarship for general category student and another scholarship for backward class student), on Means basis, of any discipline for a period of five years. The students with low family income may be considered, and if there is a tie in the income criteria, then the student with high JEE rank may be considered for award the scholarship"
+    },
+    {
+        "serial": 9,
+        "title": "Visit of Prof. D. Yogi Goswami on 9th August, 2024",
+        "date": "Aug 2024",
+        "info": "Goswami family has contributed Rs. 25 Lacs towards establishing the center “Goswami Family Center for Sustainable Materials Research and Education.” The center for Sustainable Materials Research and Education will support research and education in sustainable materials, scholarships for students in sustainable materials and support of materials research laboratories."
+    },
+    {
+        "serial": 10,
+        "title": "DTU has initiated a series of talks by distinguished speakers in India, the speaker of the first talk of the series is Padma Shri awardee Dr Ravi Grover, the Indian Nuclear Scientist, and our own Alumnus of 1970 batch, Mechanical Engineering",
+        "date": "Aug 2024",
+        "info": "Dr Ravi Grover is well known in India as a proponent of nuclear Energy who played a key role in India’s nuclear program. Ravi B. Grover completed his bachelor's degree in mechanical engineering from the prestigious Delhi College of Engineering in 1970 and joined the Bhabha Atomic Research Centre. He completed a PhD in mechanical engineering from the Indian Institute of Science, Bangalore, in 1982. \n He is the founding Director and later on Vice-Chancellor of Homi Bhabha National Institute (HBNI). He played a key role as negotiator in Indo-US nuclear deal in 2007. He received Padma Shri in 2014 in view of his contribution to India’s nuclear program. During a career spanning four decades, Dr. Grover has distinguished himself as an academic, research and development engineer and a science administrator. His knowledge of nuclear engineering and nuclear law has earned him the title 'nuclear diplomat'."
     }
+
+
+
 ]

@@ -16,7 +16,7 @@ export default function Footer(){
             <a href="./pages/about-us.html" className="mr-4 hover:underline md:mr-6">About</a>
           </li>
           <li>
-            <a href="./pages/initiatives.html" className="mr-4 hover:underline md:mr-6">Initiatives</a>
+            <a href="/initiatives" className="mr-4 hover:underline md:mr-6">Initiatives</a>
           </li>
 
           <li>

@@ -181,7 +181,7 @@ const HomeHero = () => {
               </p>
             </div>
 
-            <ul className="w-4/5 mx-[10%] my-1 max-h-[300px] overflow-y-auto">
+            <ul className="w-4/5 mx-[10%] my-1 max-h-[400px] overflow-y-auto">
               {activeTab === 'donation'
                 ? donations.map((donation, index) => (
                     <li key={index}>
@@ -196,7 +196,7 @@ const HomeHero = () => {
                       </a>
                     </li>
                   ))
-                : news.map((item, index) => (
+                : news.slice().reverse().map((item, index) => (
                     <li key={index}>
                       <a
                         onClick={() =>

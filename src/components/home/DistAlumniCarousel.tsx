@@ -27,6 +27,14 @@ const DistAlumniCarousel: React.FC = () => {
     fetchAlumniData();
   }, []);
 
+  useEffect(() => {
+    const interval = setInterval(() => {
+      handleNext(); // Move to the next slide every 1 second
+    }, 5000); // 1000 ms = 1 second
+
+    return () => clearInterval(interval); // Clear the interval on component unmount
+  }, [currentIndex, alumniData]);
+
   const handleNext = () => {
     setCurrentIndex((prevIndex) =>
       prevIndex === alumniData.length - 1 ? 0 : prevIndex + 1
